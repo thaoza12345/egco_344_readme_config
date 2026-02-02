@@ -1,2 +1,9 @@
 # egco_344_readme_config
-readme_configreadme_configreadme_configreadme_configreadme_configreadme_config
+Everyone else can watch this part.
+1. Dev 1 returns to the main branch locally and pulls the latest changes:
+   Bash
+   git checkout main
+   git pull origin main
+
+2. Dev 1 creates a branch update-readme.
+3. Dev 2 creates a branch chaos-readme.
