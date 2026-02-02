@@ -1,5 +1,6 @@
 # egco_344_readme_config
 Only me can watch this moment.
+Read this carefully
 1. Dev 1 returns to the main branch locally and pulls the latest changes:
    Bash
    git checkout main
